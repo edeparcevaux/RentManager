@@ -1,6 +1,6 @@
 
 
-# Titre du projet
+# Rent Manager
 
 Une interface de location de voiture permettant de voir du premier coup d'oeil, nos clients, nos voitures et nos différentes réservations.
 L'interface a été concu avec l'IDE Eclipse
